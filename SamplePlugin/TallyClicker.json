@@ -1,0 +1,10 @@
+{
+  "Author": "pastel__abyss",
+  "Name": "Tally Clicker",
+  "Punchline": "Count how many things you've defeated.",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "InternalName": "TallyClicker",
+  "ApplicableVersion": "any",
+  "Tags": [
+  ]
+}
